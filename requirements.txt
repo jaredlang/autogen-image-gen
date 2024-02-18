@@ -1,0 +1,4 @@
+python-dotenv 
+requests 
+replicate
+pyautogen>=0.2.3
